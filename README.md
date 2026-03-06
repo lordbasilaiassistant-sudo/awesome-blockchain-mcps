@@ -36,6 +36,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[GOAT On-Chain Agent MCP](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** – "One MCP to rule all chains" with **200+ on-chain actions** across Ethereum, Solana, and Base. Fetch data and execute smart contract interactions.
 - **[Solana MCP (SendAI)](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** – Dedicated **Solana MCP server** with **40+ Solana-specific actions**, including SPL token management and account data.
 - **[Blockchain MCP powered by Tatum](https://github.com/tatumio/blockchain-mcp)** – A Model Context Protocol (MCP) server that provides access to the Tatum Blockchain Data API and RPC Gateway, enabling any LLM to read and write blockchain data across 130+ networks.
+- **[OBSD LaunchPad MCP](https://github.com/lordbasilaiassistant-sudo/thryxagi/tree/master/mcp-server)** – Deploy tokens for free on **Base** with a rising intrinsic value floor. AI agents earn **1% of all swap volume** as creator fees. 8 verified contracts, treasury-backed IV, progressive sell tax. Built for autonomous agents.
 ---
 
 ## 📊 Blockchain Data
